@@ -4,7 +4,8 @@
   "description": "Check if a number is a perfect square",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "prepublish": "npm test"
   },
   "repository": {
     "type": "git",
