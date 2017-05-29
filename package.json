@@ -1,0 +1,33 @@
+{
+  "name": "perfect-square",
+  "version": "1.0.0",
+  "description": "Check if the given number is a perfect square",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhsz/perfect-square.git"
+  },
+  "keywords": [
+    "perfect",
+    "square",
+    "math",
+    "root",
+    "modulo"
+  ],
+  "author": {
+    "name": "Nicolás Quiroz",
+    "email": "nh.quiroz@gmail.com",
+    "url": "nicolasquiroz.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhsz/perfect-square/issues"
+  },
+  "homepage": "https://github.com/nhsz/perfect-square#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
