@@ -18,7 +18,7 @@ test(t => {
 })
 
 test(t => {
-  t.false(perfectSquare(0))
+  t.true(perfectSquare(0))
 })
 
 test(t => {

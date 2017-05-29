@@ -7,5 +7,9 @@
 'use strict'
 
 module.exports = (number) => {
-  return number % Math.sqrt(number) === 0
+  if (number === 0) {
+    return true
+  } else {
+    return number % Math.sqrt(number) === 0
+  }
 }
