@@ -22,6 +22,10 @@ test(t => {
 })
 
 test(t => {
+  t.true(perfectSquare(1))
+})
+
+test(t => {
   t.false(perfectSquare(-1))
 })
 
