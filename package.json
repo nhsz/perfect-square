@@ -1,6 +1,6 @@
 {
   "name": "perfect-square",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Check if a number is a perfect square",
   "main": "index.js",
   "scripts": {
