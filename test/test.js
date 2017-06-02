@@ -1,5 +1,5 @@
 import test from 'ava'
-import perfectSquare from './'
+import perfectSquare from '../lib'
 
 test(t => {
   t.false(perfectSquare(-1))
