@@ -1,6 +1,6 @@
 # perfect-square
 
-[![NPM](https://nodei.co/npm/perfect-square.png)](https://nodei.co/npm/perfect-square/)
+[![NPM](https://nodei.co/npm/perfect-square.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/perfect-square/)
 
 > Check if a number is a **[`perfect square`](https://en.wikipedia.org/wiki/Square_number)**
 
