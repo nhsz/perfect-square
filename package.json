@@ -1,11 +1,10 @@
 {
   "name": "perfect-square",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "description": "Check if a number is a perfect square",
   "main": "index.js",
   "scripts": {
-    "test": "ava",
-    "prepublish": "npm test"
+    "test": "nyc --reporter=html --reporter=text ava"
   },
   "repository": {
     "type": "git",
@@ -29,6 +28,8 @@
   },
   "homepage": "https://github.com/nhsz/perfect-square#readme",
   "devDependencies": {
-    "ava": "^0.19.1"
+    "ava": "^0.21.0",
+    "coveralls": "^2.13.1",
+    "nyc": "^11.0.2"
   }
 }

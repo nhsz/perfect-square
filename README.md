@@ -8,7 +8,7 @@
 ## Install
 
 ```
-$ npm install --save perfect-square
+$ npm install perfect-square
 ```
 
 
